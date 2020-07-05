@@ -1,1 +1,1 @@
-web:gunicorn dreamblog.wsgi
+web:gunicorn blog.wsgi
